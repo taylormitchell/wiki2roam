@@ -1,0 +1,19 @@
+{
+    "name": "wiki2roam",
+    "version": "1.0",
+    "description": "Copy wikipedia content with Roam syntax",
+    "permissions": ["activeTab"],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "commands": {
+     "copy": {
+       "suggested_key": {
+         "default": "Alt+C"
+       },
+       "description": "Copy"
+     }
+    },
+    "manifest_version": 2
+}
