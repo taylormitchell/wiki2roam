@@ -1,6 +1,6 @@
 # wiki2roam
 
-Copy selection from Wikipedia with hyperlinks replaced with Roam page references.
+Copy selection from Wikipedia with hyperlinks replaced with [Roam](https://roamresearch.com/) page references.
 
 1. Go to any Wikipedia page and select some text
 
