@@ -10,7 +10,7 @@ Copy selection from Wikipedia with hyperlinks replaced with Roam page references
 
 3. Paste it into Roam
 
-![](images/roam.png)
+![](images/roam_block.png)
 
 
 ## Installation
