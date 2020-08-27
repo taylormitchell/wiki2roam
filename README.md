@@ -1,6 +1,6 @@
 # wiki2roam
 
-Copy selection from Wikipedia with hyperlinks replaced with [Roam](https://roamresearch.com/) page references.
+Chrome extension which copies text from Wikipedia with a [Roam](https://roamresearch.com/) style
 
 1. Go to any Wikipedia page and select some text
 
