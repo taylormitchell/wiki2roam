@@ -2,8 +2,6 @@
 
 Copy selection from Wikipedia with hyperlinks replaced with Roam page references.
 
-## Usage
-
 1. Go to any Wikipedia page and select some text
 
 ![](images/wikipedia.png)
