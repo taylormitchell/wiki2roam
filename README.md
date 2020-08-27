@@ -4,13 +4,13 @@ Copy selection from Wikipedia with hyperlinks replaced with Roam page references
 
 ## Usage
 
-Go to any Wikipedia page and select some text
+1. Go to any Wikipedia page and select some text
 
 ![](images/wikipedia.png)
 
-Copy it using wiki2roam by pressing `Alt-C` on windows or `Option-C` on mac
+2. Copy it using wiki2roam by pressing `Alt-C` on windows or `Option-C` on mac
 
-Paste it into Roam
+3. Paste it into Roam
 
 ![](images/roam.png)
 
