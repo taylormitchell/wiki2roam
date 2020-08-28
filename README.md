@@ -15,8 +15,7 @@ Chrome extension which copies text from Wikipedia with a [Roam](https://roamrese
 
 ## Installation
 
-1. Download and unzip this repo:<br> 
-<img src="images/download.png" height="150px">
+1. Download and unzip this repo:<br><img src="images/download.png" height="150px">
 2. In Chrome, go to settings > More Tools > Extensions
 3. Click "Load unpacked"
 4. Select the `wiki2roam_extension` folder within the downloaded repo
