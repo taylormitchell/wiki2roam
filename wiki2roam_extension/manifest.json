@@ -1,6 +1,6 @@
 {
     "name": "wiki2roam",
-    "version": "1.0",
+    "version": "0.1",
     "description": "Copy selection from Wikipedia with hyperlinks replaced with Roam page references",
     "permissions": ["activeTab"],
     "background": {

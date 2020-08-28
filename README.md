@@ -18,4 +18,4 @@ Chrome extension which copies text from Wikipedia with a [Roam](https://roamrese
 1. Clone this repo: `git clone https://github.com/taylormitchell/wiki2roam.git`
 2. In Chrome, go to settings > More Tools > Extensions
 3. Click "Load unpacked"
-3. Select the `wiki2roam` subfolder within the repo you just cloned
+3. Select the `wiki2roam_extension` folder within the repo you just cloned
